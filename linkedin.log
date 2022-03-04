@@ -1,0 +1,451 @@
+[2022-03-04 14:55:51,657] INFO      __main__   create_connection              Connected to SQLite DB successfully
+[2022-03-04 14:55:51,664] INFO      __main__   execute_query                  Create table Query executed successfully
+[2022-03-04 14:55:56,969] INFO      __main__   create_driver                  Driver Created Successfully
+[2022-03-04 14:56:10,800] INFO      __main__   login_into_linkedin            Logged in Successfully
+[2022-03-04 14:56:17,476] INFO      __main__   execute_query                  Mohammad Javad Tatari Query executed successfully
+[2022-03-04 14:57:30,569] INFO      __main__   save_connections_info          Connections Page Scraped Successfully
+[2022-03-04 14:57:41,526] INFO      __main__   execute_query                  Mahsa Jjj Query executed successfully
+[2022-03-04 14:57:41,531] INFO      __main__   execute_query                  Iman Ghafoori Query executed successfully
+[2022-03-04 14:57:41,536] INFO      __main__   execute_query                  Siteay for Business Solutions Query executed successfully
+[2022-03-04 14:57:41,541] INFO      __main__   execute_query                  Алексей Лушев Query executed successfully
+[2022-03-04 14:57:41,546] INFO      __main__   execute_query                  Mohammad Hosein Safari Query executed successfully
+[2022-03-04 14:57:41,552] INFO      __main__   execute_query                  Mohammad Taheri Query executed successfully
+[2022-03-04 14:57:41,557] INFO      __main__   execute_query                  Mohammad Parsa Parasteh Query executed successfully
+[2022-03-04 14:57:41,562] INFO      __main__   execute_query                  sara miladi Query executed successfully
+[2022-03-04 14:57:41,567] INFO      __main__   execute_query                  Yousef Gheibi Query executed successfully
+[2022-03-04 14:57:41,572] INFO      __main__   execute_query                  moein khorami Query executed successfully
+[2022-03-04 14:57:41,577] INFO      __main__   execute_query                  pouya karimian Query executed successfully
+[2022-03-04 14:57:41,582] INFO      __main__   execute_query                  Amir Tavalaie moghadam Query executed successfully
+[2022-03-04 14:57:41,587] INFO      __main__   execute_query                  mohamadreza moumivand Query executed successfully
+[2022-03-04 14:57:41,592] INFO      __main__   execute_query                  Mohamad Mohamadi Query executed successfully
+[2022-03-04 14:57:41,596] INFO      __main__   execute_query                  Esmail Ebrahimi Query executed successfully
+[2022-03-04 14:57:41,601] INFO      __main__   execute_query                  Amin Malek Mohammadi Query executed successfully
+[2022-03-04 14:57:41,606] INFO      __main__   execute_query                  Milad Izadi Far Query executed successfully
+[2022-03-04 14:57:41,610] INFO      __main__   execute_query                  Mehrab Babapour Query executed successfully
+[2022-03-04 14:57:41,615] INFO      __main__   execute_query                  Sepehr Shabany Query executed successfully
+[2022-03-04 14:57:41,621] INFO      __main__   execute_query                  Saman Gerami Query executed successfully
+[2022-03-04 14:57:41,625] INFO      __main__   execute_query                  Ramin Nazeri Query executed successfully
+[2022-03-04 14:57:41,630] INFO      __main__   execute_query                  Mohammad Iman Golchinrad Query executed successfully
+[2022-03-04 14:57:41,635] INFO      __main__   execute_query                  Tarik Hadžić Query executed successfully
+[2022-03-04 14:57:41,640] INFO      __main__   execute_query                  amin sheikh sajadieh Query executed successfully
+[2022-03-04 14:57:41,645] INFO      __main__   execute_query                  Mahdi Pardat Query executed successfully
+[2022-03-04 14:57:41,649] INFO      __main__   execute_query                  AzizAhmad Noorzaie Query executed successfully
+[2022-03-04 14:57:41,654] INFO      __main__   execute_query                  Parisa Farivash Query executed successfully
+[2022-03-04 14:57:41,658] INFO      __main__   execute_query                  Seyedhamed Vahedi Query executed successfully
+[2022-03-04 14:57:41,663] INFO      __main__   execute_query                  Seyed Hossein Ahmadpanah Query executed successfully
+[2022-03-04 14:57:41,668] INFO      __main__   execute_query                  Mobina Khoramian Query executed successfully
+[2022-03-04 14:57:41,673] INFO      __main__   execute_query                  Cathy Andrews BA, TESOL Query executed successfully
+[2022-03-04 14:57:41,677] INFO      __main__   execute_query                  Amir hossein Hasoomi Query executed successfully
+[2022-03-04 14:57:41,682] INFO      __main__   execute_query                  Narges Abbasi Query executed successfully
+[2022-03-04 14:57:41,686] INFO      __main__   execute_query                  Javad Ahmadi Query executed successfully
+[2022-03-04 14:57:41,690] INFO      __main__   execute_query                  Haniyeh Habibi Query executed successfully
+[2022-03-04 14:57:41,696] INFO      __main__   execute_query                  mohamad rezaiie Query executed successfully
+[2022-03-04 14:57:41,700] INFO      __main__   execute_query                  MohammadHossein Iranpak Query executed successfully
+[2022-03-04 14:57:41,705] INFO      __main__   execute_query                  AmirHosein Gorani Query executed successfully
+[2022-03-04 14:57:41,710] INFO      __main__   execute_query                  MohammadReza Pazoki Query executed successfully
+[2022-03-04 14:57:41,715] INFO      __main__   execute_query                  Aref Tavassoli Query executed successfully
+[2022-03-04 14:57:41,720] INFO      __main__   execute_query                  mohsen zahed mousavi Query executed successfully
+[2022-03-04 14:57:41,724] INFO      __main__   execute_query                  Fateme Heidari Query executed successfully
+[2022-03-04 14:57:41,729] INFO      __main__   execute_query                  Reza Mousavi Query executed successfully
+[2022-03-04 14:57:41,737] INFO      __main__   execute_query                  Erfan Afsari Query executed successfully
+[2022-03-04 14:57:41,741] INFO      __main__   execute_query                  Mohammad Moghadam Query executed successfully
+[2022-03-04 14:57:41,746] INFO      __main__   execute_query                  Nazanin Golroo Query executed successfully
+[2022-03-04 14:57:41,751] INFO      __main__   execute_query                  Mostafa Janmaleki Query executed successfully
+[2022-03-04 14:57:41,756] INFO      __main__   execute_query                  Elham Hashemi Query executed successfully
+[2022-03-04 14:57:41,761] INFO      __main__   execute_query                  Danyial Nasermanesh Query executed successfully
+[2022-03-04 14:57:41,766] INFO      __main__   execute_query                  Alireza Naghdipour Query executed successfully
+[2022-03-04 14:57:41,770] INFO      __main__   execute_query                  Shirin apr Query executed successfully
+[2022-03-04 14:57:41,776] INFO      __main__   execute_query                  Mohammad Amin Ahmadi Query executed successfully
+[2022-03-04 14:57:41,781] INFO      __main__   execute_query                  Sirvan Cheraghi Query executed successfully
+[2022-03-04 14:57:41,785] INFO      __main__   execute_query                  Kianoosh Hematian Elmi Query executed successfully
+[2022-03-04 14:57:41,790] INFO      __main__   execute_query                  Masood Kazemi Query executed successfully
+[2022-03-04 14:57:41,796] INFO      __main__   execute_query                  Foad Nikoukar Query executed successfully
+[2022-03-04 14:57:41,800] INFO      __main__   execute_query                  hamed koohestani Query executed successfully
+[2022-03-04 14:57:41,805] INFO      __main__   execute_query                  Vahid Zangeneh Query executed successfully
+[2022-03-04 14:57:41,811] INFO      __main__   execute_query                  Parham Aghayani Query executed successfully
+[2022-03-04 14:57:41,816] INFO      __main__   execute_query                  Amirreza Salari Query executed successfully
+[2022-03-04 14:57:41,820] INFO      __main__   execute_query                  𝓶𝓸𝓶𝓽𝓪𝔃𝓲𝓯𝓪𝓻𝓲𝓭𝓮𝓱 Query executed successfully
+[2022-03-04 14:57:41,826] INFO      __main__   execute_query                  vahid noori Query executed successfully
+[2022-03-04 14:57:41,831] INFO      __main__   execute_query                  Behrouz Mohammadi Query executed successfully
+[2022-03-04 14:57:41,836] INFO      __main__   execute_query                  Hanieh Noorbakhsh Query executed successfully
+[2022-03-04 14:57:41,841] INFO      __main__   execute_query                  mahdi tahmasbi Query executed successfully
+[2022-03-04 14:57:41,847] INFO      __main__   execute_query                  Rezvan Shamseh Query executed successfully
+[2022-03-04 14:57:41,852] INFO      __main__   execute_query                  Soheyla Kazemi Query executed successfully
+[2022-03-04 14:57:41,857] INFO      __main__   execute_query                  Ziba A.T Query executed successfully
+[2022-03-04 14:57:41,862] INFO      __main__   execute_query                  Ali Nazarizadeh Query executed successfully
+[2022-03-04 14:57:41,866] INFO      __main__   execute_query                  Nourollah Rezaei Query executed successfully
+[2022-03-04 14:57:41,870] INFO      __main__   execute_query                  Ali Yavari Query executed successfully
+[2022-03-04 14:57:41,876] INFO      __main__   execute_query                  Majid Javadi Query executed successfully
+[2022-03-04 14:57:41,880] INFO      __main__   execute_query                  sina azimi Query executed successfully
+[2022-03-04 14:57:41,885] INFO      __main__   execute_query                  Hossein Yousefian Query executed successfully
+[2022-03-04 14:57:41,890] INFO      __main__   execute_query                  Mohsen Faghih Query executed successfully
+[2022-03-04 14:57:41,894] INFO      __main__   execute_query                  Radin Shakourian Query executed successfully
+[2022-03-04 14:57:41,899] INFO      __main__   execute_query                  Farid Darabi Query executed successfully
+[2022-03-04 14:57:41,904] INFO      __main__   execute_query                  Elham Nouri Query executed successfully
+[2022-03-04 14:57:41,908] INFO      __main__   execute_query                  Hamed Talebpoor Query executed successfully
+[2022-03-04 14:57:41,913] INFO      __main__   execute_query                  Sh Farjamfard Query executed successfully
+[2022-03-04 14:57:41,918] INFO      __main__   execute_query                  Sina MohammadZadeh Query executed successfully
+[2022-03-04 14:57:41,923] INFO      __main__   execute_query                  Maryam Sabzalipour Query executed successfully
+[2022-03-04 14:57:41,927] INFO      __main__   execute_query                  parisa khania Query executed successfully
+[2022-03-04 14:57:41,932] INFO      __main__   execute_query                  Majid Khorshidian Query executed successfully
+[2022-03-04 14:57:41,937] INFO      __main__   execute_query                  Hamid Abedian Query executed successfully
+[2022-03-04 14:57:41,941] INFO      __main__   execute_query                  Ali Khalafnejad Query executed successfully
+[2022-03-04 14:57:41,946] INFO      __main__   execute_query                  Alireza Fathi Query executed successfully
+[2022-03-04 14:57:41,950] INFO      __main__   execute_query                  Zara Rezaee Query executed successfully
+[2022-03-04 14:57:41,955] INFO      __main__   execute_query                  Amin Etemadi Query executed successfully
+[2022-03-04 14:57:41,959] INFO      __main__   execute_query                  Mojtaba Zamani Neyshabour Query executed successfully
+[2022-03-04 14:57:41,964] INFO      __main__   execute_query                  Ramin Mahmodi Query executed successfully
+[2022-03-04 14:57:41,968] INFO      __main__   execute_query                  Sina Ebrahimi Query executed successfully
+[2022-03-04 14:57:41,972] INFO      __main__   execute_query                  Mahsa Mohammadi Query executed successfully
+[2022-03-04 14:57:41,978] INFO      __main__   execute_query                  MORTEZA DANAEI Query executed successfully
+[2022-03-04 14:57:41,983] INFO      __main__   execute_query                  Soran Tabesh Query executed successfully
+[2022-03-04 14:57:41,988] INFO      __main__   execute_query                  Iman Sahraei Query executed successfully
+[2022-03-04 14:57:41,992] INFO      __main__   execute_query                  Alireza Rahimi Query executed successfully
+[2022-03-04 14:57:41,996] INFO      __main__   execute_query                  Ahmadreza Arabmokhtari Query executed successfully
+[2022-03-04 14:57:42,001] INFO      __main__   execute_query                  Mohammad Sina gholami Query executed successfully
+[2022-03-04 14:57:42,006] INFO      __main__   execute_query                  Peyvand Azadi Query executed successfully
+[2022-03-04 14:57:42,011] INFO      __main__   execute_query                  Masoumeh Amiri Query executed successfully
+[2022-03-04 14:57:42,015] INFO      __main__   execute_query                  Alireza Qorbani Query executed successfully
+[2022-03-04 14:57:42,019] INFO      __main__   execute_query                  Amir.h Khademi Query executed successfully
+[2022-03-04 14:57:42,024] INFO      __main__   execute_query                  Afshin Bayat Query executed successfully
+[2022-03-04 14:57:42,029] INFO      __main__   execute_query                  Iman Nosrati Query executed successfully
+[2022-03-04 14:57:42,033] INFO      __main__   execute_query                  MohammadReza Tahmasebi Query executed successfully
+[2022-03-04 14:57:42,039] INFO      __main__   execute_query                  saeed karimi Query executed successfully
+[2022-03-04 14:57:42,043] INFO      __main__   execute_query                  Samaneh Moazzen Query executed successfully
+[2022-03-04 14:57:42,048] INFO      __main__   execute_query                  Siamak Mahdizadeh Query executed successfully
+[2022-03-04 14:57:42,052] INFO      __main__   execute_query                  alireza pakdin Query executed successfully
+[2022-03-04 14:57:42,057] INFO      __main__   execute_query                  Mahdi Sorkhemiri Query executed successfully
+[2022-03-04 14:57:42,062] INFO      __main__   execute_query                  Fariba Noori Ghomesheh Query executed successfully
+[2022-03-04 14:57:42,066] INFO      __main__   execute_query                  Fatemeh Hatami Query executed successfully
+[2022-03-04 14:57:42,071] INFO      __main__   execute_query                  Mohammad Afshari Query executed successfully
+[2022-03-04 14:57:42,076] INFO      __main__   execute_query                  Ali Kooshesh Query executed successfully
+[2022-03-04 14:57:42,081] INFO      __main__   execute_query                  Maryam Hatami Query executed successfully
+[2022-03-04 14:57:42,085] INFO      __main__   execute_query                  Ali Fasihi Query executed successfully
+[2022-03-04 14:57:42,090] INFO      __main__   execute_query                  samaneh parhizkar Query executed successfully
+[2022-03-04 14:57:42,094] INFO      __main__   execute_query                  Zeynab Shahgholian Query executed successfully
+[2022-03-04 14:57:42,099] INFO      __main__   execute_query                  Nima Rahnama Query executed successfully
+[2022-03-04 14:57:42,104] INFO      __main__   execute_query                  Mohammad Hossein Qavizi Query executed successfully
+[2022-03-04 14:57:42,109] INFO      __main__   execute_query                  Omid Pakdel Query executed successfully
+[2022-03-04 14:57:42,115] INFO      __main__   execute_query                  razieh kanani Query executed successfully
+[2022-03-04 14:57:42,120] INFO      __main__   execute_query                  fatemeh amel Query executed successfully
+[2022-03-04 14:57:42,125] INFO      __main__   execute_query                  Sonia Abtahi Query executed successfully
+[2022-03-04 14:57:42,130] INFO      __main__   execute_query                  Mohammad Reza Kaskani Query executed successfully
+[2022-03-04 14:57:42,135] INFO      __main__   execute_query                  Solmaz Afshar Nezhad Query executed successfully
+[2022-03-04 14:57:42,140] INFO      __main__   execute_query                  Mohammad Banaei Query executed successfully
+[2022-03-04 14:57:42,145] INFO      __main__   execute_query                  mahnaz fallah Query executed successfully
+[2022-03-04 14:57:42,150] INFO      __main__   execute_query                  Zahra Aghaziarati Query executed successfully
+[2022-03-04 14:57:42,154] INFO      __main__   execute_query                  Mohammad Masoori Query executed successfully
+[2022-03-04 14:57:42,159] INFO      __main__   execute_query                  marziyeh barooei/ Query executed successfully
+[2022-03-04 14:57:42,164] INFO      __main__   execute_query                  Bahman Enayati Query executed successfully
+[2022-03-04 14:57:42,169] INFO      __main__   execute_query                  Sina Sadigh Query executed successfully
+[2022-03-04 14:57:42,174] INFO      __main__   execute_query                  MohmmadAli Daneshjoye Query executed successfully
+[2022-03-04 14:57:42,178] INFO      __main__   execute_query                  Farzin Shams Query executed successfully
+[2022-03-04 14:57:42,183] INFO      __main__   execute_query                  Amir Hossein Agha Alikhani Query executed successfully
+[2022-03-04 14:57:42,188] INFO      __main__   execute_query                  Behrang Barekatain Query executed successfully
+[2022-03-04 14:57:42,192] INFO      __main__   execute_query                  Milad Mohamadi Query executed successfully
+[2022-03-04 14:57:42,197] INFO      __main__   execute_query                  Parastoo Majidi Query executed successfully
+[2022-03-04 14:57:42,201] INFO      __main__   execute_query                  Hamed Kashi Query executed successfully
+[2022-03-04 14:57:42,206] INFO      __main__   execute_query                  mozhdeh nouri Query executed successfully
+[2022-03-04 14:57:42,210] INFO      __main__   execute_query                  Amin Bagherinezhad Query executed successfully
+[2022-03-04 14:57:42,215] INFO      __main__   execute_query                  Abo Ala- ابو آلا Query executed successfully
+[2022-03-04 14:57:42,219] INFO      __main__   execute_query                  Ahmadreza Parsaei Query executed successfully
+[2022-03-04 14:57:42,224] INFO      __main__   execute_query                  Farshid Pourabdolali Query executed successfully
+[2022-03-04 14:57:42,229] INFO      __main__   execute_query                  Mohammad Taghi Roghani Query executed successfully
+[2022-03-04 14:57:42,234] INFO      __main__   execute_query                  JOBJOB CO Query executed successfully
+[2022-03-04 14:57:42,239] INFO      __main__   execute_query                  Mona Ramezanpour Query executed successfully
+[2022-03-04 14:57:42,243] INFO      __main__   execute_query                  Mohammad Sharifi Query executed successfully
+[2022-03-04 14:57:42,248] INFO      __main__   execute_query                  Mohammad Hossein Vefgh Query executed successfully
+[2022-03-04 14:57:42,252] INFO      __main__   execute_query                  mostafa semnani Query executed successfully
+[2022-03-04 14:57:42,257] INFO      __main__   execute_query                  Raj Samatra Query executed successfully
+[2022-03-04 14:57:42,262] INFO      __main__   execute_query                  Mohammadreza Hooman Query executed successfully
+[2022-03-04 14:57:42,266] INFO      __main__   execute_query                  Techran Co Query executed successfully
+[2022-03-04 14:57:42,271] INFO      __main__   execute_query                  mohammad malmir Query executed successfully
+[2022-03-04 14:57:42,278] INFO      __main__   execute_query                  tarlan molabeygi Query executed successfully
+[2022-03-04 14:57:42,289] INFO      __main__   execute_query                  Morteza Heydari Query executed successfully
+[2022-03-04 14:57:42,299] INFO      __main__   execute_query                  erfan Morsali Query executed successfully
+[2022-03-04 14:57:42,312] INFO      __main__   execute_query                  Elham Nazari Query executed successfully
+[2022-03-04 14:57:42,319] INFO      __main__   execute_query                  Alireza Jaffari Query executed successfully
+[2022-03-04 14:57:42,324] INFO      __main__   execute_query                  Mozhgan Rajabdoust Query executed successfully
+[2022-03-04 14:57:42,331] INFO      __main__   execute_query                  Hasan Nazari Query executed successfully
+[2022-03-04 14:57:42,337] INFO      __main__   execute_query                  Mahdi Houshmandi Query executed successfully
+[2022-03-04 14:57:42,341] INFO      __main__   execute_query                  saeidreza mashayekhi Query executed successfully
+[2022-03-04 14:57:42,347] INFO      __main__   execute_query                  Hesan Aminiloo Query executed successfully
+[2022-03-04 14:57:42,354] INFO      __main__   execute_query                  Sadra Fateh Query executed successfully
+[2022-03-04 14:57:42,358] INFO      __main__   execute_query                  Yeganeh Nemati Query executed successfully
+[2022-03-04 14:57:42,363] INFO      __main__   execute_query                  Sajjad Maleki Query executed successfully
+[2022-03-04 14:57:42,368] INFO      __main__   execute_query                  Mojtaba Chavoshi Query executed successfully
+[2022-03-04 14:57:42,373] INFO      __main__   execute_query                  Mohamad Salimi Query executed successfully
+[2022-03-04 14:57:42,377] INFO      __main__   execute_query                  Mohammad Karimi Query executed successfully
+[2022-03-04 14:57:42,382] INFO      __main__   execute_query                  Amir Hossein Kazemi Seresht Query executed successfully
+[2022-03-04 14:57:42,387] INFO      __main__   execute_query                  Shaghayegh Sharifi Query executed successfully
+[2022-03-04 14:57:42,392] INFO      __main__   execute_query                  Mohammad Mohammadi Query executed successfully
+[2022-03-04 14:57:42,397] INFO      __main__   execute_query                  Amirreza Monesan Query executed successfully
+[2022-03-04 14:57:42,401] INFO      __main__   execute_query                  maryam mohebi Query executed successfully
+[2022-03-04 14:57:42,407] INFO      __main__   execute_query                  milad sokhangoo Query executed successfully
+[2022-03-04 14:57:42,411] INFO      __main__   execute_query                  Mohammad Farahi Query executed successfully
+[2022-03-04 14:57:42,416] INFO      __main__   execute_query                  Ali Marefati Query executed successfully
+[2022-03-04 14:57:42,421] INFO      __main__   execute_query                  Amirhossein Asadi Query executed successfully
+[2022-03-04 14:57:42,426] INFO      __main__   execute_query                  Shirin Asadi Query executed successfully
+[2022-03-04 14:57:42,431] INFO      __main__   execute_query                  Majid Farzaneh Query executed successfully
+[2022-03-04 14:57:42,437] INFO      __main__   execute_query                  Shohreh Teimouri Query executed successfully
+[2022-03-04 14:57:42,441] INFO      __main__   execute_query                  Neda Heshmatian Query executed successfully
+[2022-03-04 14:57:42,447] INFO      __main__   execute_query                  Arman Ziaei Query executed successfully
+[2022-03-04 14:57:42,451] INFO      __main__   execute_query                  Bahare Haghbin Query executed successfully
+[2022-03-04 14:57:42,457] INFO      __main__   execute_query                  Mostafa Gholami Query executed successfully
+[2022-03-04 14:57:42,462] INFO      __main__   execute_query                  mohammad ali mehdizadeh Query executed successfully
+[2022-03-04 14:57:42,467] INFO      __main__   execute_query                  Lantern Language Club Query executed successfully
+[2022-03-04 14:57:42,472] INFO      __main__   execute_query                  Amir Yari nezhad Query executed successfully
+[2022-03-04 14:57:42,477] INFO      __main__   execute_query                  rasoul mohammadi Query executed successfully
+[2022-03-04 14:57:42,482] INFO      __main__   execute_query                  Saeed Gazeran Query executed successfully
+[2022-03-04 14:57:42,487] INFO      __main__   execute_query                  Mahshid Rostami Query executed successfully
+[2022-03-04 14:57:42,492] INFO      __main__   execute_query                  Saman Eghbali Query executed successfully
+[2022-03-04 14:57:42,497] INFO      __main__   execute_query                  Mahdi Nazari Query executed successfully
+[2022-03-04 14:57:42,502] INFO      __main__   execute_query                  Hossein Ojaghi Query executed successfully
+[2022-03-04 14:57:42,507] INFO      __main__   execute_query                  Sargol Mazraedoost Query executed successfully
+[2022-03-04 14:57:42,511] INFO      __main__   execute_query                  Mohammad Roshangara Query executed successfully
+[2022-03-04 14:57:42,515] INFO      __main__   execute_query                  Kourosh Rahmani Query executed successfully
+[2022-03-04 14:57:42,521] INFO      __main__   execute_query                  Ahmadreza mohebbi Query executed successfully
+[2022-03-04 14:57:42,525] INFO      __main__   execute_query                  Alireza Kishani Farahani Query executed successfully
+[2022-03-04 14:57:42,529] INFO      __main__   execute_query                  Shahab Jahangiri Query executed successfully
+[2022-03-04 14:57:42,533] INFO      __main__   execute_query                  Fateme Karimi Query executed successfully
+[2022-03-04 14:57:42,538] INFO      __main__   execute_query                  Mega Group Query executed successfully
+[2022-03-04 14:57:42,544] INFO      __main__   execute_query                  Sadegh Adyani Query executed successfully
+[2022-03-04 14:57:42,549] INFO      __main__   execute_query                  Mahdi Moosavi Query executed successfully
+[2022-03-04 14:57:42,553] INFO      __main__   execute_query                  AmiReza Fathi Query executed successfully
+[2022-03-04 14:57:42,559] INFO      __main__   execute_query                  Saeed Aghabararian Query executed successfully
+[2022-03-04 14:57:42,564] INFO      __main__   execute_query                  Davoud Mohamadi Query executed successfully
+[2022-03-04 14:57:42,568] INFO      __main__   execute_query                  Fariborz Razban Query executed successfully
+[2022-03-04 14:57:42,572] INFO      __main__   execute_query                  fatemeh khalvandi Query executed successfully
+[2022-03-04 14:57:42,578] INFO      __main__   execute_query                  Fatemeh Yasin Query executed successfully
+[2022-03-04 14:57:42,583] INFO      __main__   execute_query                  Mahyar HaghRoosta Query executed successfully
+[2022-03-04 14:57:42,587] INFO      __main__   execute_query                  Miad Javid Query executed successfully
+[2022-03-04 14:57:42,592] INFO      __main__   execute_query                  Lida Dabiri Query executed successfully
+[2022-03-04 14:57:42,597] INFO      __main__   execute_query                  Sahar Taghikhani Query executed successfully
+[2022-03-04 14:57:42,602] INFO      __main__   execute_query                  Mehran Ayazi Query executed successfully
+[2022-03-04 14:57:42,606] INFO      __main__   execute_query                  Sara Moayedi Query executed successfully
+[2022-03-04 14:57:42,611] INFO      __main__   execute_query                  Mahdi Nikraad Query executed successfully
+[2022-03-04 14:57:42,616] INFO      __main__   execute_query                  Nasim Behnood Query executed successfully
+[2022-03-04 14:57:42,621] INFO      __main__   execute_query                  Arman Doroudi Query executed successfully
+[2022-03-04 14:57:42,625] INFO      __main__   execute_query                  Saruye S Query executed successfully
+[2022-03-04 14:57:42,630] INFO      __main__   execute_query                  Mehdi Taheri Query executed successfully
+[2022-03-04 14:57:42,634] INFO      __main__   execute_query                  Ali Baghery Query executed successfully
+[2022-03-04 14:57:42,639] INFO      __main__   execute_query                  Reza Keneshloo Query executed successfully
+[2022-03-04 14:57:42,643] INFO      __main__   execute_query                  Mohammad Hossein Zolfaghari Query executed successfully
+[2022-03-04 14:57:42,648] INFO      __main__   execute_query                  Mahdi N.Tabar Query executed successfully
+[2022-03-04 14:57:42,653] INFO      __main__   execute_query                  Salman Afshar Query executed successfully
+[2022-03-04 14:57:42,657] INFO      __main__   execute_query                  Yasaman Mohammadi Query executed successfully
+[2022-03-04 14:57:42,662] INFO      __main__   execute_query                  BINARY FISSION Query executed successfully
+[2022-03-04 14:57:42,666] INFO      __main__   execute_query                  Ehsan Asadi Khorrami Query executed successfully
+[2022-03-04 14:57:42,670] INFO      __main__   execute_query                  Amin Norouzi Query executed successfully
+[2022-03-04 14:57:42,674] INFO      __main__   execute_query                  Mohammad Rajabi Query executed successfully
+[2022-03-04 14:57:42,679] INFO      __main__   execute_query                  Abbas karimi Query executed successfully
+[2022-03-04 14:57:42,683] INFO      __main__   execute_query                  Erfan Hosseinpoor Query executed successfully
+[2022-03-04 14:57:42,688] INFO      __main__   execute_query                  Sana Mirahsani Query executed successfully
+[2022-03-04 14:57:42,692] INFO      __main__   execute_query                  Morteza Bayat Query executed successfully
+[2022-03-04 14:57:42,697] INFO      __main__   execute_query                  Hosseyn Saghafi Query executed successfully
+[2022-03-04 14:57:42,702] INFO      __main__   execute_query                  Reza Ali Query executed successfully
+[2022-03-04 14:57:42,707] INFO      __main__   execute_query                  Mohammad Kermani Query executed successfully
+[2022-03-04 14:57:42,711] INFO      __main__   execute_query                  Pooya Sagharichiha Query executed successfully
+[2022-03-04 14:57:42,717] INFO      __main__   execute_query                  Mahmoud Hosseini Query executed successfully
+[2022-03-04 14:57:42,720] INFO      __main__   execute_query                  Mohammad jahangiri Query executed successfully
+[2022-03-04 14:57:42,725] INFO      __main__   execute_query                  AliReza Kaviani Query executed successfully
+[2022-03-04 14:57:42,730] INFO      __main__   execute_query                  Zahra Hashemi Query executed successfully
+[2022-03-04 14:57:42,734] INFO      __main__   execute_query                  هادی احمدی Query executed successfully
+[2022-03-04 14:57:42,739] INFO      __main__   execute_query                  Ali Fattahi Query executed successfully
+[2022-03-04 14:57:42,744] INFO      __main__   execute_query                  Mohammad Reza Bahmani Query executed successfully
+[2022-03-04 14:57:42,748] INFO      __main__   execute_query                  Mohammad Nasiri Query executed successfully
+[2022-03-04 14:57:42,754] INFO      __main__   execute_query                  Amirali Abdolmohammadi Query executed successfully
+[2022-03-04 14:57:42,759] INFO      __main__   execute_query                  Kamran Davar Query executed successfully
+[2022-03-04 14:57:42,763] INFO      __main__   execute_query                  Mona Shirzad Query executed successfully
+[2022-03-04 14:57:42,768] INFO      __main__   execute_query                  sara rajabzadeh Query executed successfully
+[2022-03-04 14:57:42,773] INFO      __main__   execute_query                  Pedram Khodarahmi Query executed successfully
+[2022-03-04 14:57:42,778] INFO      __main__   execute_query                  mohammadreza shiri Query executed successfully
+[2022-03-04 14:57:42,782] INFO      __main__   execute_query                  Mohsen Shokri Query executed successfully
+[2022-03-04 14:57:42,787] INFO      __main__   execute_query                  Tabesh Rouhani Query executed successfully
+[2022-03-04 14:57:42,792] INFO      __main__   execute_query                  ali dehgan Query executed successfully
+[2022-03-04 14:57:42,797] INFO      __main__   execute_query                  Alireza Nezami Query executed successfully
+[2022-03-04 14:57:42,802] INFO      __main__   execute_query                  Noura Tajdini Query executed successfully
+[2022-03-04 14:57:42,806] INFO      __main__   execute_query                  Sadegh Bashiri Query executed successfully
+[2022-03-04 14:57:42,814] INFO      __main__   execute_query                  Meysam Teymoori Query executed successfully
+[2022-03-04 14:57:42,822] INFO      __main__   execute_query                  Alireza Dashti Query executed successfully
+[2022-03-04 14:57:42,835] INFO      __main__   execute_query                  Vahid Borji Query executed successfully
+[2022-03-04 14:57:42,842] INFO      __main__   execute_query                  amin nasr Query executed successfully
+[2022-03-04 14:57:42,853] INFO      __main__   execute_query                  Parsa Daryakar Query executed successfully
+[2022-03-04 14:57:42,859] INFO      __main__   execute_query                  Morteza Ziyaeimehr Query executed successfully
+[2022-03-04 14:57:42,867] INFO      __main__   execute_query                  sina hashemitaheri Query executed successfully
+[2022-03-04 14:57:42,872] INFO      __main__   execute_query                  Rayan Pajouh Salamat Query executed successfully
+[2022-03-04 14:57:42,878] INFO      __main__   execute_query                  eli Saed Query executed successfully
+[2022-03-04 14:57:42,882] INFO      __main__   execute_query                  AliReza Khaknezhad Query executed successfully
+[2022-03-04 14:57:42,887] INFO      __main__   execute_query                  Hamzeh Azizzadeh Query executed successfully
+[2022-03-04 14:57:42,892] INFO      __main__   execute_query                  mohamad vahabian Query executed successfully
+[2022-03-04 14:57:42,897] INFO      __main__   execute_query                  Pardis Sotudeh Query executed successfully
+[2022-03-04 14:57:42,902] INFO      __main__   execute_query                  Nima Hamidpour Query executed successfully
+[2022-03-04 14:57:42,906] INFO      __main__   execute_query                  Ali Hashemi Query executed successfully
+[2022-03-04 14:57:42,911] INFO      __main__   execute_query                  Poorshad Shaddel Query executed successfully
+[2022-03-04 14:57:42,916] INFO      __main__   execute_query                  Hesam Asnaashari Query executed successfully
+[2022-03-04 14:57:42,921] INFO      __main__   execute_query                  Mohammad-Amin Solki Query executed successfully
+[2022-03-04 14:57:42,926] INFO      __main__   execute_query                  fatemeh noorali Query executed successfully
+[2022-03-04 14:57:42,930] INFO      __main__   execute_query                  Mohamadreza Firooz Query executed successfully
+[2022-03-04 14:57:42,936] INFO      __main__   execute_query                  hadi mohammadi Query executed successfully
+[2022-03-04 14:57:42,940] INFO      __main__   execute_query                  Mohsen Hadavi Query executed successfully
+[2022-03-04 14:57:42,945] INFO      __main__   execute_query                  Amir Salkhori Query executed successfully
+[2022-03-04 14:57:42,950] INFO      __main__   execute_query                  Bahar Rostaminiya Query executed successfully
+[2022-03-04 14:57:42,955] INFO      __main__   execute_query                  Sam Namiranian Query executed successfully
+[2022-03-04 14:57:42,960] INFO      __main__   execute_query                  Navid Jalalmanesh Query executed successfully
+[2022-03-04 14:57:42,965] INFO      __main__   execute_query                  Mohammad Soltani Query executed successfully
+[2022-03-04 14:57:42,969] INFO      __main__   execute_query                  Ahmad Khalili Query executed successfully
+[2022-03-04 14:57:42,974] INFO      __main__   execute_query                  Javad Ghaedi Query executed successfully
+[2022-03-04 14:57:42,979] INFO      __main__   execute_query                  Sahar Menbari Query executed successfully
+[2022-03-04 14:57:42,984] INFO      __main__   execute_query                  Mohammad Jokar Query executed successfully
+[2022-03-04 14:57:42,989] INFO      __main__   execute_query                  Asal Sanaei Query executed successfully
+[2022-03-04 14:57:42,994] INFO      __main__   execute_query                  Behzad Abbasi Query executed successfully
+[2022-03-04 14:57:42,999] INFO      __main__   execute_query                  Morteza Nasiri Query executed successfully
+[2022-03-04 14:57:43,005] INFO      __main__   execute_query                  MohammadAmin Alavi Query executed successfully
+[2022-03-04 14:57:43,010] INFO      __main__   execute_query                  Ramin Rezaei Query executed successfully
+[2022-03-04 14:57:43,014] INFO      __main__   execute_query                  Mohammad Gaeini Query executed successfully
+[2022-03-04 14:57:43,020] INFO      __main__   execute_query                  Hadi Karami Query executed successfully
+[2022-03-04 14:57:43,024] INFO      __main__   execute_query                  Raha Moslemi Query executed successfully
+[2022-03-04 14:57:43,029] INFO      __main__   execute_query                  Pouya Rahmati Query executed successfully
+[2022-03-04 14:57:43,033] INFO      __main__   execute_query                  Amin Imani Query executed successfully
+[2022-03-04 14:57:43,038] INFO      __main__   execute_query                  Mohammad Talebi Query executed successfully
+[2022-03-04 14:57:43,042] INFO      __main__   execute_query                  M.J. Bagheri Nejad Query executed successfully
+[2022-03-04 14:57:43,046] INFO      __main__   execute_query                  Mehdi Falamarzi Query executed successfully
+[2022-03-04 14:57:43,050] INFO      __main__   execute_query                  امیر فدایی Query executed successfully
+[2022-03-04 14:57:43,055] INFO      __main__   execute_query                  Farnaz Khoshgoftar Query executed successfully
+[2022-03-04 14:57:43,060] INFO      __main__   execute_query                  Habib Seifzadeh Query executed successfully
+[2022-03-04 14:57:43,065] INFO      __main__   execute_query                  fatemeh shirzad Query executed successfully
+[2022-03-04 14:57:43,070] INFO      __main__   execute_query                  AmirHossein Ajami Query executed successfully
+[2022-03-04 14:57:43,075] INFO      __main__   execute_query                  Reza Abbasian Query executed successfully
+[2022-03-04 14:57:43,080] INFO      __main__   execute_query                  Roohollah Khodabakhshi Query executed successfully
+[2022-03-04 14:57:43,085] INFO      __main__   execute_query                  Ahmad Moradi Query executed successfully
+[2022-03-04 14:57:43,090] INFO      __main__   execute_query                  Amir Ziapoor Query executed successfully
+[2022-03-04 14:57:43,095] INFO      __main__   execute_query                  Toufan Pasha Query executed successfully
+[2022-03-04 14:57:43,099] INFO      __main__   execute_query                  Zeinab Rezaeezadeh Query executed successfully
+[2022-03-04 14:57:43,103] INFO      __main__   execute_query                  Abolfazl Khan Mohammadi Query executed successfully
+[2022-03-04 14:57:43,108] INFO      __main__   execute_query                  MohammadTaha Basiri Query executed successfully
+[2022-03-04 14:57:43,113] INFO      __main__   execute_query                  Mohammad Alimohammadi Query executed successfully
+[2022-03-04 14:57:43,118] INFO      __main__   execute_query                  elaheh shirashiyani Query executed successfully
+[2022-03-04 14:57:43,122] INFO      __main__   execute_query                  Erfan Esmaeeli Shirazi Query executed successfully
+[2022-03-04 14:57:43,127] INFO      __main__   execute_query                  kamran soleimanyan Query executed successfully
+[2022-03-04 14:57:43,132] INFO      __main__   execute_query                  Sadaf Amini-nia Query executed successfully
+[2022-03-04 14:57:43,137] INFO      __main__   execute_query                  Mahsa Rajabpour Query executed successfully
+[2022-03-04 14:57:43,142] INFO      __main__   execute_query                  Negar kafi Query executed successfully
+[2022-03-04 14:57:43,147] INFO      __main__   execute_query                  Kiandokht Jalali Query executed successfully
+[2022-03-04 14:57:43,152] INFO      __main__   execute_query                  Soroush Samadi Query executed successfully
+[2022-03-04 14:57:43,156] INFO      __main__   execute_query                  Elaheh Tajalli Query executed successfully
+[2022-03-04 14:57:43,161] INFO      __main__   execute_query                  Ashkan Zafarmand Query executed successfully
+[2022-03-04 14:57:43,166] INFO      __main__   execute_query                  Atefeh Erfani Query executed successfully
+[2022-03-04 14:57:43,171] INFO      __main__   execute_query                  Pejman Kheyri Query executed successfully
+[2022-03-04 14:57:43,176] INFO      __main__   execute_query                  Alireza Dana Query executed successfully
+[2022-03-04 14:57:43,181] INFO      __main__   execute_query                  Sahar Seyfipiran Query executed successfully
+[2022-03-04 14:57:43,186] INFO      __main__   execute_query                  somayeh alaei Query executed successfully
+[2022-03-04 14:57:43,193] INFO      __main__   execute_query                  Massi Pirhady Query executed successfully
+[2022-03-04 14:57:43,198] INFO      __main__   execute_query                  Valeri Lilov Query executed successfully
+[2022-03-04 14:57:43,203] INFO      __main__   execute_query                  Alireza Aliniya Query executed successfully
+[2022-03-04 14:57:43,208] INFO      __main__   execute_query                  Ayoub Rezaei Query executed successfully
+[2022-03-04 14:57:43,212] INFO      __main__   execute_query                  Mahta Ahmadi Query executed successfully
+[2022-03-04 14:57:43,216] INFO      __main__   execute_query                  Leila Parhoodeh Query executed successfully
+[2022-03-04 14:57:43,222] INFO      __main__   execute_query                  Nesa Sadeghi Query executed successfully
+[2022-03-04 14:57:43,226] INFO      __main__   execute_query                  Niki Eidgah Query executed successfully
+[2022-03-04 14:57:43,231] INFO      __main__   execute_query                  sahand ghanbarzade Query executed successfully
+[2022-03-04 14:57:43,237] INFO      __main__   execute_query                  Ali Nazari Query executed successfully
+[2022-03-04 14:57:43,241] INFO      __main__   execute_query                  Mahdi Kaliani Query executed successfully
+[2022-03-04 14:57:43,245] INFO      __main__   execute_query                  Sanaz Mirchi Query executed successfully
+[2022-03-04 14:57:43,250] INFO      __main__   execute_query                  داریوش سجادی (آریزونا - آمریکا) Query executed successfully
+[2022-03-04 14:57:43,255] INFO      __main__   execute_query                  mohammad mahmoodi Query executed successfully
+[2022-03-04 14:57:43,259] INFO      __main__   execute_query                  dexis team Query executed successfully
+[2022-03-04 14:57:43,264] INFO      __main__   execute_query                  Taleb Rafiepour Query executed successfully
+[2022-03-04 14:57:43,268] INFO      __main__   execute_query                  Azadeh Alizadeh Query executed successfully
+[2022-03-04 14:57:43,274] INFO      __main__   execute_query                  Tara Teymouri Query executed successfully
+[2022-03-04 14:57:43,279] INFO      __main__   execute_query                  Meysam Momeni Query executed successfully
+[2022-03-04 14:57:43,284] INFO      __main__   execute_query                  Mohammad Mostajeran Query executed successfully
+[2022-03-04 14:57:43,288] INFO      __main__   execute_query                  Dr.Somayeh Bakhshandeh Query executed successfully
+[2022-03-04 14:57:43,293] INFO      __main__   execute_query                  Bhumika Thakur Query executed successfully
+[2022-03-04 14:57:43,299] INFO      __main__   execute_query                  Maryam Mamipour Query executed successfully
+[2022-03-04 14:57:43,303] INFO      __main__   execute_query                  Sara Rezaei Query executed successfully
+[2022-03-04 14:57:43,308] INFO      __main__   execute_query                  Nikoo Asadnejad Query executed successfully
+[2022-03-04 14:57:43,313] INFO      __main__   execute_query                  Abbas Yousefi Query executed successfully
+[2022-03-04 14:57:43,319] INFO      __main__   execute_query                  Hamed Azizi (kimiyagar) Query executed successfully
+[2022-03-04 14:57:43,323] INFO      __main__   execute_query                  Hadi Hashemi Query executed successfully
+[2022-03-04 14:57:43,328] INFO      __main__   execute_query                  Mostafa Safaei Query executed successfully
+[2022-03-04 14:57:43,332] INFO      __main__   execute_query                  Masoume Hasani Query executed successfully
+[2022-03-04 14:57:43,337] INFO      __main__   execute_query                  Kimia Hajizadeh Query executed successfully
+[2022-03-04 14:57:43,341] INFO      __main__   execute_query                  Abouzar Imanizadeh Query executed successfully
+[2022-03-04 14:57:43,346] INFO      __main__   execute_query                  Mona Asghari Query executed successfully
+[2022-03-04 14:57:43,350] INFO      __main__   execute_query                  Majid Kakavandi Query executed successfully
+[2022-03-04 14:57:43,356] INFO      __main__   execute_query                  Omid Nateghi Query executed successfully
+[2022-03-04 14:57:43,360] INFO      __main__   execute_query                  Alireza Alimohammadi Query executed successfully
+[2022-03-04 14:57:43,365] INFO      __main__   execute_query                  HR Queensite Query executed successfully
+[2022-03-04 14:57:43,370] INFO      __main__   execute_query                  Behrooz Farsi Query executed successfully
+[2022-03-04 14:57:43,375] INFO      __main__   execute_query                  Sahar Fakhriehkashan Query executed successfully
+[2022-03-04 14:57:43,379] INFO      __main__   execute_query                  Raadco Company Query executed successfully
+[2022-03-04 14:57:43,384] INFO      __main__   execute_query                  Mohamadhossein Tahan Query executed successfully
+[2022-03-04 14:57:43,390] INFO      __main__   execute_query                  Iman Karimi Query executed successfully
+[2022-03-04 14:57:43,393] INFO      __main__   execute_query                  Elahe Taqavi Query executed successfully
+[2022-03-04 14:57:43,399] INFO      __main__   execute_query                  Javad shariati Query executed successfully
+[2022-03-04 14:57:43,403] INFO      __main__   execute_query                  Pegah Farshchi Query executed successfully
+[2022-03-04 14:57:43,408] INFO      __main__   execute_query                  Amirhosein PourHosein Query executed successfully
+[2022-03-04 14:57:43,413] INFO      __main__   execute_query                  Farzaneh Hajilooiyan Query executed successfully
+[2022-03-04 14:57:43,417] INFO      __main__   execute_query                  Narges Namdarfard Query executed successfully
+[2022-03-04 14:57:43,422] INFO      __main__   execute_query                  Farzan Rouhnejad Query executed successfully
+[2022-03-04 14:57:43,426] INFO      __main__   execute_query                  Milad vazhedi Query executed successfully
+[2022-03-04 14:57:43,431] INFO      __main__   execute_query                  SeYed SINA Farjad Pezeshk Query executed successfully
+[2022-03-04 14:57:43,436] INFO      __main__   execute_query                  MohammadAli Akbari Query executed successfully
+[2022-03-04 14:57:43,441] INFO      __main__   execute_query                  Elahe Farshadfar Query executed successfully
+[2022-03-04 14:57:43,445] INFO      __main__   execute_query                  Farzad Nikaein Query executed successfully
+[2022-03-04 14:57:43,450] INFO      __main__   execute_query                  amir reza irani ali poor Query executed successfully
+[2022-03-04 14:57:43,455] INFO      __main__   execute_query                  Amir Hormozi Nik Query executed successfully
+[2022-03-04 14:57:43,460] INFO      __main__   execute_query                  Tohid Geranmayeh Query executed successfully
+[2022-03-04 14:57:43,465] INFO      __main__   execute_query                  Reza Abdi Query executed successfully
+[2022-03-04 14:57:43,470] INFO      __main__   execute_query                  Mahdi Bagheri Query executed successfully
+[2022-03-04 14:57:43,474] INFO      __main__   execute_query                  Reza Yousofvand Query executed successfully
+[2022-03-04 14:57:43,479] INFO      __main__   execute_query                  Bardia Akbari Query executed successfully
+[2022-03-04 14:57:43,484] INFO      __main__   execute_query                  Hamed Masrour Query executed successfully
+[2022-03-04 14:57:43,488] INFO      __main__   execute_query                  Sepideh Fathali Query executed successfully
+[2022-03-04 14:57:43,493] INFO      __main__   execute_query                  mohamad entezam Query executed successfully
+[2022-03-04 14:57:43,498] INFO      __main__   execute_query                  Seyed Mohamad Hossein Hosseini Query executed successfully
+[2022-03-04 14:57:43,503] INFO      __main__   execute_query                  Meisam Sabzi Query executed successfully
+[2022-03-04 14:57:43,508] INFO      __main__   execute_query                  alireza ebrahimi Query executed successfully
+[2022-03-04 14:57:43,513] INFO      __main__   execute_query                  behzad mirzazadeh Query executed successfully
+[2022-03-04 14:57:43,518] INFO      __main__   execute_query                  Hossein Mayboudi Query executed successfully
+[2022-03-04 14:57:43,523] INFO      __main__   execute_query                  Mojtaba Abtahi Query executed successfully
+[2022-03-04 14:57:43,528] INFO      __main__   execute_query                  Mojtaba Behnam Query executed successfully
+[2022-03-04 14:57:43,533] INFO      __main__   execute_query                  Fardin Abdali Query executed successfully
+[2022-03-04 14:57:43,538] INFO      __main__   execute_query                  masood shaterabadi Query executed successfully
+[2022-03-04 14:57:43,543] INFO      __main__   execute_query                  Mehdi Bazyar Query executed successfully
+[2022-03-04 14:57:43,547] INFO      __main__   execute_query                  Mohamad Reza Ahmadi Query executed successfully
+[2022-03-04 14:57:43,551] INFO      __main__   execute_query                  Mehrad Ahmadi Query executed successfully
+[2022-03-04 14:57:43,556] INFO      __main__   execute_query                  Nooshin Esmaeil Khanian Query executed successfully
+[2022-03-04 14:57:43,560] INFO      __main__   execute_query                  parimah pourazin Query executed successfully
+[2022-03-04 14:57:43,565] INFO      __main__   execute_query                  Zahra Kmd Query executed successfully
+[2022-03-04 14:57:43,569] INFO      __main__   execute_query                  Atefeh Heydari Query executed successfully
+[2022-03-04 14:57:43,574] INFO      __main__   execute_query                  Mehran Zahabi Query executed successfully
+[2022-03-04 14:57:43,581] INFO      __main__   execute_query                  Ali Alamdari Query executed successfully
+[2022-03-04 14:57:43,586] INFO      __main__   execute_query                  amin tajdarian Query executed successfully
+[2022-03-04 14:57:43,591] INFO      __main__   execute_query                  Amirhossein Khodamoradi Query executed successfully
+[2022-03-04 14:57:43,597] INFO      __main__   execute_query                  Parsa Eivani Query executed successfully
+[2022-03-04 14:57:43,601] INFO      __main__   execute_query                  MohammadBagher Tabrizi Query executed successfully
+[2022-03-04 14:57:43,606] INFO      __main__   execute_query                  Morteza Dadashi Query executed successfully
+[2022-03-04 14:57:43,610] INFO      __main__   execute_query                  Azhir Ahmadi Query executed successfully
+[2022-03-04 14:57:43,616] INFO      __main__   execute_query                  Sohrab Delangizan Query executed successfully
+[2022-03-04 14:57:43,620] INFO      __main__   execute_query                  Reza Soleymani Query executed successfully
+[2022-03-04 14:57:43,626] INFO      __main__   execute_query                  Fahimeh Fayaz Query executed successfully
+[2022-03-04 14:57:43,630] INFO      __main__   execute_query                  Ima Azizollahi, PHRi Query executed successfully
+[2022-03-04 14:57:43,635] INFO      __main__   execute_query                  Mazdak Fatahi Query executed successfully
+[2022-03-04 14:57:43,640] INFO      __main__   execute_query                  Mehdi Oshaghi Query executed successfully
+[2022-03-04 14:57:43,644] INFO      __main__   execute_query                  Saeed Ghasemi Query executed successfully
+[2022-03-04 14:57:43,649] INFO      __main__   execute_query                  Ana Lava Query executed successfully
+[2022-03-04 14:57:43,655] INFO      __main__   execute_query                  Mohammad Panahandeh Query executed successfully
+[2022-03-04 14:57:43,660] INFO      __main__   execute_query                  Behnia Esmailian Query executed successfully
+[2022-03-04 14:57:43,665] INFO      __main__   execute_query                  Mahmood Ahmadi Query executed successfully
+[2022-03-04 14:57:43,670] INFO      __main__   execute_query                  Pedram Marandi Query executed successfully
+[2022-03-04 14:57:43,675] INFO      __main__   execute_query                  Mojtaba Espari Pour Query executed successfully
+[2022-03-04 14:57:43,679] INFO      __main__   execute_query                  Behzad Shahabi بهزاد شهابی Query executed successfully
+[2022-03-04 14:57:43,684] INFO      __main__   execute_query                  Rasoul Veisi Query executed successfully
+[2022-03-04 14:57:43,689] INFO      __main__   execute_query                  Behnam Pazani Query executed successfully
+[2022-03-04 14:57:43,694] INFO      __main__   execute_query                  Hamed Hamedian Query executed successfully
+[2022-03-04 14:57:43,698] INFO      __main__   execute_query                  Mohammad Alipour Fathkouhi Query executed successfully
+[2022-03-04 14:57:43,703] INFO      __main__   execute_query                  محبت غلامی Query executed successfully
+[2022-03-04 14:57:43,708] INFO      __main__   execute_query                  Shanbe Mag Query executed successfully
+[2022-03-04 14:57:43,714] INFO      __main__   execute_query                  Mohammad Kazemifard Query executed successfully
+[2022-03-04 14:57:44,603] INFO      __main__   close_program                  Program Finished Successfully
